@@ -5,6 +5,8 @@ Chosun-OSS
 
 02분반 11조 조장 조태호.
 
+*상세한 GitHub 히스토리는 GitHub_History.pdf 문서에 첨부하였습니다.*
+
 ## 프로젝트 목차
 
 1. [Android Signature Pad](#android-signature-pad)
